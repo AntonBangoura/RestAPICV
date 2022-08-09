@@ -57,12 +57,12 @@ const Navbar = () => {
             <a href='https://google.com' target='_blank' rel="noopener noreferrer"><i className='fab fa-codepen'></i></a>
           </li>
         </ul>
-        
-      </div>
-
-<div className="signature">
+        <div className="signature">
   <p>Anton Bangoura © - 2022</p>
 </div>
+      </div>
+
+
 
     </div>
   )
