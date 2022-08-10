@@ -4,27 +4,22 @@ function Hobbies() {
   return (
     
       <div className="hobbies">
-        <h3>Interets</h3>
+        <h3>Intérêts</h3>
         <ul>
           <li className='hobby'>
+        <i className='fas fa-chess'></i>
+        <span>Échecs - 1700 ELO</span>
+          </li>
+          <li className='hobby'>
         <i className='fas fa-running'></i>
-        <span>Boxe</span>
+        <span>Boxe anglaise</span>
           </li>
           <li className='hobby'>
         <i className='fas fa-hiking'></i>
-        <span>Boxe</span>
+        <span>Littérature classique</span>
           </li>
           <li className='hobby'>
-        <i className='fas fa-seedling'></i>
-        <span>Boxe</span>
-          </li>
-          <li className='hobby'>
-        <i className='fas fa-ethereum'></i>
-        <span>Boxe</span>
-          </li>
-          <li className='hobby'>
-        <i className='fas fa-rocket'></i>
-        <span>Boxe</span>
+          <i class="fab fa-spotify"></i>       <span>Musique classique</span>
           </li>
         </ul>
       </div>
