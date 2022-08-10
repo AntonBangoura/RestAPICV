@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@800&family=Josefin+Sans:wght@100&family=Nova+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300&family=Josefin+Sans:wght@100&display=swap');
 
-$font-1: 'Nova Round', cursive;
-$font-2: 'Dosis', sans-serif;
-$font-3: 'Josefin Sans', serif;
+$font-1: 'Fira Sans', sans-serif;
+$font-2: 'Fira Sans', sans-serif;
+$font-3: 'Fira Sans', sans-serif;
 
-$color-1: #2a1d52;
-$color-2: #6C77F4;
-$color-3: rgb(99, 164, 233);
-$color-4: #4FEDD2;
-$color-5: #36D0EA;
-$white: #ddd;
-$black: #333;
+$color-1: #2470c7;
+$color-2: #2470c7;
+$color-3: rgb(240, 227, 209);
+$color-4: #e3e0cf;
+$color-5: #e3e0cf;
+$white: rgb(197, 186, 186);
+$black: rgb(197, 186, 186);
 
 $borderRadius: 25px;
 $shadow: 0 1px 3px #333;
@@ -27,6 +27,7 @@ $minHeight: 95vh;
   padding: 0;
 }
 body {
+  background-color: #c5d5cb;
   margin: 1rem auto;
   max-width: 1200px;
   font-family: $font-1;

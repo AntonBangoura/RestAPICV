@@ -24,7 +24,7 @@ const Navbar = () => {
           <li>
           <NavLink exact to="/competences" activeClassName="navActive">
             <i className='fas fa-mountain'></i>
-            <span>Competences</span>
+            <span>Compétences</span>
           </NavLink>
           </li>
           <li>
@@ -45,17 +45,15 @@ const Navbar = () => {
       <div className="socialNetwork">
         <ul>
           <li>
-            <a href='https://google.com' target='_blank' rel="noopener noreferrer"><i className='fab fa-linkedin'></i></a>
+            <a href='https://www.linkedin.com/in/anton-bangoura-68a2151a2/?originalSubdomain=ua' target='_blank' rel="noopener noreferrer"><i className='fab fa-linkedin'></i></a>
           </li>
           <li>
-            <a href='https://google.com' target='_blank' rel="noopener noreferrer"><i className='fab fa-github'></i></a>
+            <a href='https://github.com/AntonBangoura' target='_blank' rel="noopener noreferrer"><i className='fab fa-github'></i></a>
           </li>
           <li>
-            <a href='https://google.com' target='_blank' rel="noopener noreferrer"><i className='fab fa-twitter'></i></a>
+            <a href='https://www.instagram.com/exevropa/?hl=fr' target='_blank' rel="noopener noreferrer"><i className='fab fa-instagram'></i></a>
           </li>
-          <li>
-            <a href='https://google.com' target='_blank' rel="noopener noreferrer"><i className='fab fa-codepen'></i></a>
-          </li>
+         
         </ul>
         <div className="signature">
   <p>Anton Bangoura © - 2022</p>
