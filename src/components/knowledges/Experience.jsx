@@ -13,7 +13,7 @@ Mon travail consistait, sur Linux, à réparer d'éventuels défauts - par exemp
       </div>
 
       <div className="exp-21">
-        <h4>Support technique pour serveurs de VoIP</h4>
+        <h4>Développeur front-end</h4>
         <h5>03/02/2021 - 09/03/2022</h5>
         <p>
         Avec CyberBionic Systematics, une entreprise de développement web, j'ai pu affiner ma connaissance du développement web front-end, en particulier ma connaissance de React.js.J'ai également pu faire du node.js.J'ai aussi pu affiner mon savoir-être, dans une entreprise ou le développement collaboratif était la règle.
